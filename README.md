@@ -11,4 +11,8 @@ Methods used to tackle this question:
 - <b>EDA with Matplotlib</b>
   - Before creating the models, I will used the cleaned dataset to answer a few preliminary questions that help me better understand the top players in the dataset and some of the relationships that exist between variables.
 - <b>Ridge Regression and Random Forest Regression</b>
-  - Finally, I'll test out both a Ridge Regression and Random Forest and compare the two models. Our models will both predict MVP voting results for each year over the last 30 seasons, however we will judge our model based on an average precision score that looks at how correctly we predicted the top 5 MVP vote-getters. 
+  - Finally, I'll test out both a Ridge Regression and Random Forest and compare the two models. Our models will both predict MVP voting results for each year over the last 30 seasons, however we will judge our model based on an average precision score that looks at how correctly we predicted the top 5 MVP vote-getters.
+<br><br>
+#### Data Source: Basketball Reference
+- MVP Data: https://www.basketball-reference.com/awards/awards_2022.html
+- Player Stats: https://www.basketball-reference.com/leagues/NBA_2022_per_game.html

@@ -7,7 +7,7 @@ Methods used to tackle this question:
 - <b>Web Scraping with Beautiful Soup</b>
   - To acquire the data, I will scrape historical player statistics and MVP voting history from the past 30 seasons from Basketball Reference to use as my training and testing data to make predictions.
 - <b>Data Cleaning with Pandas</b>
-  - After acquiring the data, I will use Pandas to clean and combine the datasets so that it is compatible accurate for regression models.
+  - After acquiring the data, I will use Pandas to clean and combine the datasets so that it is digestable for regression models.
 - <b>EDA with Matplotlib</b>
   - Before creating the models, I will used the cleaned dataset to answer a few preliminary questions that help me better understand the top players in the dataset and some of the relationships that exist between variables.
 - <b>Ridge Regression and Random Forest Regression</b>
